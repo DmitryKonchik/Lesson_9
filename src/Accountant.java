@@ -1,4 +1,4 @@
-public class Worker  implements PrintingPosition{
+public class Accountant implements PrintingPosition{
 
 
     @Override
