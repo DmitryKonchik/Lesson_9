@@ -6,3 +6,4 @@ public class Director implements PrintingPosition{
         System.out.println("Должность этого человека " + getClass().getName());
     }
 }
+          
